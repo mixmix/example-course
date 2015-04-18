@@ -1,4 +1,7 @@
-**NB** this is a hypermarkdown document,  [view it here](https://hypermarkdown.herokuapp.com/mixmix/example-course/blob/master/mix-recipe.md) )
+**NB** this is a hypermarkdown document
+
+- rendered file: [**hypermarkdown.herokuapp.com**/mixmix/example-course/blob/master/mix-recipe.md](https://hypermarkdown.herokuapp.com/mixmix/example-course/blob/master/mix-recipe.md)
+- source file [**github.com.com**/mixmix/example-course/blob/master/mix-recipe.md](https://github.com.com/mixmix/example-course/blob/master/mix-recipe.md)
 
 ---
 
