@@ -4,12 +4,12 @@ Note these files use HyperMarkdown. Along with the traditional links, they use a
 
 Here's the syntax for a normal link 
 ```
-i[Waves Module to import](https://github.com/mixmix/example-course/blob/master/Waves.md)
++[Waves Module to import](https://github.com/mixmix/example-course/blob/master/Waves.md)
 ```
 
 here's the syntax for an include-link: 
 ```
-i[Waves Module to import](https://github.com/mixmix/example-course/blob/master/Waves.md)
++[Waves Module to import](https://github.com/mixmix/example-course/blob/master/Waves.md)
 ```
 
 ---
