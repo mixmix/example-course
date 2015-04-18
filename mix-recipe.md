@@ -1,4 +1,4 @@
-This is mix's take on level 2 physics. ( view it using hypermarkdown [here](https://github.com/mixmix/example-course/blob/master/mix-recipe.md) )
+This is mix's take on level 2 physics. ( view it using hypermarkdown [here](https://hypermarkdown.herokuapp.com/mixmix/example-course/blob/master/mix-recipe.md) )
 
 We'll start with waves because they're super important.
 
