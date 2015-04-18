@@ -1,7 +1,10 @@
-This is mix's take on level 2 physics. 
 **NB** this is a hypermarkdown document,  [view it here](https://hypermarkdown.herokuapp.com/mixmix/example-course/blob/master/mix-recipe.md) )
 
-We'll start with waves because they're super important.
+---
+
+About: This mix's custom take on level 2 physics. We'll start with waves because they're super important.
+
+---
 
 i[Waves Module to import](https://github.com/mixmix/example-course/blob/master/Waves.md)
 
