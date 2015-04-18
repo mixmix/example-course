@@ -2,7 +2,7 @@ This is mix's take on level 2 physics. ( view it using hypermarkdown [here](http
 
 We'll start with waves because they're super important.
 
-i[Waves module i like](https://github.com/mixmix/example-course/blob/master/Waves)
+i[Waves module i like](https://github.com/mixmix/example-course/blob/master/Waves.md)
 
 ---
 
