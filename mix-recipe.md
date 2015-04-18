@@ -3,6 +3,7 @@
 - rendered file: [**hypermarkdown.herokuapp.com**/mixmix/example-course/blob/master/mix-recipe.md](https://hypermarkdown.herokuapp.com/mixmix/example-course/blob/master/mix-recipe.md)
 - source file [**github.com.com**/mixmix/example-course/blob/master/mix-recipe.md](https://github.com/mixmix/example-course/blob/master/mix-recipe.md)
 
+[plain link](https://hypermarkdown.herokuapp.com)
 ---
 
 About: This mix's custom take on level 2 physics. We'll start with waves because they're super important.
