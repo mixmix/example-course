@@ -3,7 +3,7 @@
 - rendered file: [**hypermarkdown.herokuapp.com**/mixmix/example-course/blob/master/mix-recipe.md](https://hypermarkdown.herokuapp.com/mixmix/example-course/blob/master/mix-recipe.md)
 - source file [**github.com.com**/mixmix/example-course/blob/master/mix-recipe.md](https://github.com/mixmix/example-course/blob/master/mix-recipe.md)
 
-[![])(https://github.com/mixmix/hypermarkdown/raw/master/hypermarkdown_badge.png)](https://hypermarkdown.herokuapp.com)
+[![](https://github.com/mixmix/hypermarkdown/raw/master/hypermarkdown_badge.png)](https://hypermarkdown.herokuapp.com)
 
 ---
 
