@@ -1,9 +1,14 @@
-# Mix's Retrospective Recipe
+Mix's Retrospective Recipe
+==========================
+
+Checkin
+-------
 
 +[Opening the meeting with a checkin](https://github.com/mixmix/example-course/blob/master/opening/check-ing.md)
 
-Review what happened 
 
+Review what happened 
+--------------------
 
 Run a like dislike / change
 
