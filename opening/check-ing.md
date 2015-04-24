@@ -1,4 +1,4 @@
-+[why check in?]()
+[why check in?]()
 
 Leave 30 seconds to 2 minutes for each person in your meeting. 
 You might like to tell everyone that we're going to arrive by doing a 'round', where people will be checking in, then get into the going over the agenda.
