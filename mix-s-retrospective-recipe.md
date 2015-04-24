@@ -1,6 +1,6 @@
 # Mix's Retrospective Recipe
 
-[Opening the meeting with a checkin](https://github.com/mixmix/example-course/blob/master/opening/check-ing.md)
++[Opening the meeting with a checkin](https://github.com/mixmix/example-course/blob/master/opening/check-ing.md)
 
 Review what happened 
 
