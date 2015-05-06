@@ -31,3 +31,6 @@ Some people suggest that relativity describes that space-time has curvature!
 of course, to understand motion, it might be easier to start with kinematics
 
 +[pull in kinematics](https://github.com/mixmix/example-course/blob/master/kinematics.md)
+
+
++[some vector course I found](https://github.com/mixmix/example-course/blob/master/vectors.md)
