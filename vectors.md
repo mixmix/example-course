@@ -7,7 +7,10 @@ What is a vector
 A **vector** is a way of describing directions.
 Vectors can be used to describe: 
 
-- forces 
+- forces
+  - wind
+  - elctromagnetic
+  - spring
 - velocity 
 
 
