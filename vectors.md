@@ -28,6 +28,11 @@ asd  asddas dlkjds;flkj adslf asddasdas
 Examples
 --------
 
+A second level inclusion:
+
++[Coulombs Law](https://github.com/mixmix/nice_eqns/blob/master/physics/coulombs_law.md)
+
+
 [google some examples](https://www.google.co.nz/search?client=ubuntu&channel=fs&q=vector+example&ie=utf-8&oe=utf-8&gfe_rd=cr&ei=QaBJVZOHOqzu8weP04DYAQ)
 
 ![image](http://practicalecommerce.com/wp-content/uploads/images/0004/2848/vector_example_lightbox.png)
