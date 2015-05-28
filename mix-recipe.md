@@ -2,13 +2,13 @@
 
 see [source markdown file](https://github.com/mixmix/example-course/blob/master/mix-recipe.md) that created this
 
----
+
 
 **About**: This mix's custom take on level 2 physics. We'll start with waves because they're super important.
 
 ---
 
-+[Waves Module to import](https://github.com/mixmix/example-course/blob/master/Waves.md)
++[Link to Waves Module](https://github.com/mixmix/example-course/blob/master/Waves.md)
 
 ---
 
@@ -29,7 +29,7 @@ Some people suggest that relativity describes that space-time has curvature!
 
 of course, to understand motion, it might be easier to start with kinematics
 
-+[pull in kinematics](https://github.com/mixmix/example-course/blob/master/kinematics.md)
++[Link to my kinematics module](https://github.com/mixmix/example-course/blob/master/kinematics.md)
 
 
-+[some vector course I found](https://github.com/mixmix/example-course/blob/master/vectors.md)
++[Link to a vector course that's relevant](https://github.com/mixmix/example-course/blob/master/vectors.md)
