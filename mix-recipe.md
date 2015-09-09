@@ -31,5 +31,7 @@ of course, to understand motion, it might be easier to start with kinematics
 
 +[Link to my kinematics module](https://github.com/mixmix/example-course/blob/master/kinematics.md)
 
++[Link to my kinematics module](kinematics.md)
+
 
 +[Link to a vector course that's relevant](https://github.com/mixmix/example-course/blob/master/vectors.md)
