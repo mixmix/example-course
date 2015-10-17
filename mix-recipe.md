@@ -35,3 +35,5 @@ of course, to understand motion, it might be easier to start with kinematics
 
 
 +[Link to a vector course that's relevant](https://github.com/mixmix/example-course/blob/master/vectors.md)
+
++[a Khan Academy video on waves](https://www.youtube.com/watch?v=c38H6UKt3_I)
