@@ -17,9 +17,9 @@ Stuff I've enjoyed (more just interesting listening):
 
 Other recommendations to watch (updates automatically): 
 
-+[](https://github.com/vernonk/webdev-podcasts)
++[webdev podcasts](https://github.com/vernonk/webdev-podcasts)
 
-+[](https://github.com/ashleygwilliams/breakfast-repo)
++[breakfast repo](https://github.com/ashleygwilliams/breakfast-repo)
 
-+[](https://github.com/guipdutra/awesome-geek-podcasts/blob/master/README.md)
++[awesome geek podcasts](https://github.com/guipdutra/awesome-geek-podcasts/blob/master/README.md)
 
